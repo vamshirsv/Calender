@@ -41,6 +41,27 @@ body{
     z-index: 0;
     position: absolute;
     color: rgba(47, 79, 79, 0.642);
+    animation: animate 1s infinite;
+}
+@keyframes animate{
+    0% {
+        opacity: 0;
+        font-size: 37.8vw;
+    }
+    25% {
+        opacity: 0.6;
+    
+    }
+    50% {
+        opacity: 0.6;
+    }
+    75% {
+        opacity: 0.6;
+        font-size: 38vw;
+    }
+    100% {
+        opacity: 0;
+    }
 }
 #date,#day,#time,#alarm{
     z-index: 2;
