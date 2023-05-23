@@ -50,16 +50,17 @@ body{
     }
     25% {
         opacity: 0;
+    
     }
     50% {
-        opacity: 0.6;
+        opacity: 0;
     }
     75% {
-        opacity: 0.6;
         font-size: 38vw;
     }
     100% {
         opacity: 0.6;
+
     }
 }
 #date,#day,#time,#alarm{
