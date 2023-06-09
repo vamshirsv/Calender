@@ -46,14 +46,14 @@ body{
     /* transform: skewX(100deg); */
 
 }
-@keyframes animate{
+/* @keyframes animate{
     0% {
         filter: opacity(0);
     }
     25% {
         filter: opacity(0);
     }
-}
+} */
 #date,#day,#time,#alarm{
     z-index: 2;
     font-family: 'Bebas Neue', cursive;
