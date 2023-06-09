@@ -41,7 +41,7 @@ body{
     z-index: 0;
     position: absolute;
     color: rgba(47, 79, 79, 0.642);
-    animation: animate 1s infinite;
+/*     animation: animate 1s infinite; */
     text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.426);
     /* transform: skewX(100deg); */
 
